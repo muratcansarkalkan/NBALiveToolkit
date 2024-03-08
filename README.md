@@ -32,4 +32,4 @@ NEBOViewer092 - Tool used to view/modify .ebo files
 
 This repository will only contain non-copyrighted code due to legal issues.
 
-You may download the full package with all the tools [here](Link).
+You may download the full package with all the tools [here](https://mega.nz/file/fc5w3SpS#HYVecXFmm0oYEFWspQyj80UBXr81mpbXzIEf0iRcGU0).
