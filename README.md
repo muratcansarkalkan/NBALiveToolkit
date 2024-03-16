@@ -28,8 +28,10 @@ NEBOViewer092 - Tool used to view/modify .ebo files
 
 - NEBOViewer: Akshag
 
+- VP6Toolkit: Blake_Bryant, MJ_realm, MVP Baseball 2005 modders
+
 # Full package
 
 This repository will only contain non-copyrighted code due to legal issues.
 
-You may download the full package with all the tools [here](https://mega.nz/file/fc5w3SpS#HYVecXFmm0oYEFWspQyj80UBXr81mpbXzIEf0iRcGU0).
+You may download the other tools [here](https://mega.nz/file/fc5w3SpS#HYVecXFmm0oYEFWspQyj80UBXr81mpbXzIEf0iRcGU0).
