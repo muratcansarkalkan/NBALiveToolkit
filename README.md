@@ -14,6 +14,7 @@ Jersey Raptors - Utility for creating jerseys for NBA Live 2005 and 06
 
 NEBOViewer092 - Tool used to view/modify .ebo files
 
+VP6Toolkit - Tool used to create .vp6 video files
 # Credits
 
 - AptEditor: OpenSAGE Team, feliwir, Jonathan Wilson
